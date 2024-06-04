@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\feature",
+    "\\feature\\Configuration Data"
   ],
+  "SelectedNode": "\\feature\\Configuration Data\\Measure_Unit.cs",
   "PreviewInSolutionExplorer": false
 }
