@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Measure_Units
+public enum Measure_Units
 {
-	public Measure_Units()
-	{
-	}
+	Kelvin,
+	Meters,
+	Pounds,
+
 }
